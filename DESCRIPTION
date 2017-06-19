@@ -1,0 +1,11 @@
+Package: careless
+Type: Package
+Title: Inspecting Answer Patterns in Self-Reported Data
+Version: 0.1.0
+Author: Florian Brühlmann
+Maintainer: Florian Brühlmann <florian.bruehlmann@unibas.ch>
+Description: Detecing careless respondents in survey data is a ... 
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
