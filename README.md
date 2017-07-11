@@ -1,6 +1,7 @@
 # careless
 An R package for investigation of different carelessness measures in survey data.
--- still under development -- 
+
+-- still in development -- 
 
 Install with the following commands: 
 ```{r}
